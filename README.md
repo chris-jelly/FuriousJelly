@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @FuriousJelly
-- 👀 I’m interested in Powershell, Python in the context of Data Engineering/Analytics
-- 🌱 I’m currently learning Python software engineering best practices
+- 👋 Hi, I’m @chris-jelly
+- 👀 I’m interested in software development. I am proficient in Powershell, functional in Python, and quite poor at Rust.
+- 🌱 I’m currently learning Rust, my first attempt at learning both a low level language, in addition to my first attempt at a functional programming approach. 
 - 📫 Reach me at Christopher.P.Jelly@gmail.com
-
-<!---
-FuriousJelly/FuriousJelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
